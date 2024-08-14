@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wonder Wallpaper</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="Favourite">Favourite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="opendrawr">openDrawr</string>
+    <string name="wonder_wallpaper">Wonder Wallpaper</string>
+    <string name="opendrawer">openDrawer\n</string>
+    <string name="category">Category</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="premium">Premium</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/groupDownload">
+        <item
+            android:id="@+id/download"
+            android:icon="@drawable/download"
+            android:title="@string/download" />
+    </group>
+
+
+    <group android:id="@+id/groupShare">
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/share"
+            android:title="@string/share" />
+    </group>
+
+
+    <group android:id="@+id/groupLiked">
+        <item
+            android:id="@+id/Liked"
+            android:icon="@drawable/favourite"
+            android:title="@string/Favourite" />
+    </group>
+
+
+</menu>
